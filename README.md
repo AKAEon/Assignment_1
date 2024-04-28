@@ -35,6 +35,7 @@ Table 3与Table 4的数据在本文中暂时不做讨论。
 得到了以上数据后，我们开始对数据进行合理的分析，并将数据可视化以便更直观的明显的理解数据。
 ### Statistical analysis
 首先，我们将各个国家按照所在大陆分组计算患病率平均值。因为2017年是最新的数据，所以首先制作2017年各大陆的患病情况的bar图。
+![Disease situation in various continents in 2017](/2017.png)
 
 
 ## Results
